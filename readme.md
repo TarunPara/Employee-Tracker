@@ -24,7 +24,6 @@ To start the application, run:
 node index.js
 
 Follow the on-screen prompts to view, add, update, or delete entries in the company database.
-https://github.com/TarunPara/Employee-Tracker/assets/134483509/2565d949-bca8-4feb-bb28-e581f460917f
 
 
 ## Features
