@@ -33,13 +33,7 @@ https://github.com/TarunPara/Employee-Tracker/assets/134483509/e492ead3-a3c8-4c5
 - Update employee roles
 - Utilize MySQL databases for persistent storage
 
-## Contribution
-
-Contributions to the Employee Tracker are welcome. Please ensure your pull requests adhere to the following guidelines:
-
-- Check for existing issues or open a new issue for your feature idea or bug before making a pull request.
-- Fork the repository and create your branch from the main branch.
-- Update the README.md with details of changes if necessary.
+https://stackoverflow.com/questions/55506570/sql-employee-vacation-dates-tracking
 
 ## License
 
