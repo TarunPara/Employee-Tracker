@@ -25,7 +25,7 @@ node index.js
 
 Follow the on-screen prompts to view, add, update, or delete entries in the company database.
 
-
+https://github.com/TarunPara/Employee-Tracker/assets/134483509/e492ead3-a3c8-4c58-87d2-75cc2e647d8e
 ## Features
 
 - View all departments, roles, and employees
